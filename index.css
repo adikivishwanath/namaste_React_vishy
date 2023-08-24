@@ -1,0 +1,28 @@
+#heading {
+  color: dodgerBlue;
+  background-color: #fedb39;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline;
+}
+
+#parent {
+  background-color: #f1efb9;
+  height: 100vh;
+  padding: 20px;
+}
+
+#child1 {
+  background-color: #04dead;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+#child2 {
+  background-color: #0e9577;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
